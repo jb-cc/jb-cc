@@ -1,6 +1,4 @@
-### Hi there👋 
-
-I am Jonas Beer, a [Creative Computing](https://www.fhstp.ac.at/en/academic-studies-continuing-education/media-digital-technologies/creative-computing?set_language=en) student at the [UAS St. Pölten](https://www.fhstp.ac.at/en)
+### Hi there👋 I am Jonas Beer, a [Creative Computing](https://www.fhstp.ac.at/en/academic-studies-continuing-education/media-digital-technologies/creative-computing?set_language=en) student at the [UAS St. Pölten](https://www.fhstp.ac.at/en)
 
 <!--
 **jb-cc/jb-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
