@@ -2,6 +2,9 @@
 
 
 You can access my portfolio [here](https://jonasbeer.com/)
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/jb-cc)
 <!--
 **jb-cc/jb-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
