@@ -3,9 +3,10 @@
 
 You can access my portfolio [here](https://jonasbeer.com/)
 
-I also just started doing LeetCode, so if you want to see some whack stats, here you go:
-![Leetcode Stats](https://leetcard.jacoblin.cool/jb-cc)
 <!--
+** I also just started doing LeetCode, so if you want to see some whack stats, here you go:
+![Leetcode Stats](https://leetcard.jacoblin.cool/jb-cc)
+
 **jb-cc/jb-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
