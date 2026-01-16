@@ -1,4 +1,5 @@
-### Hi there👋 I am Jonas Beer, a [Creative Computing](https://www.fhstp.ac.at/en/academic-studies-continuing-education/media-digital-technologies/creative-computing?set_language=en) student at the [UAS St. Pölten](https://www.fhstp.ac.at/en)
+### Hi there👋 I am Jonas Beer, a Software Engineer at [Teamviewer](https://www.teamviewer.com/)
+Previously, I studied [Creative Computing](https://www.fhstp.ac.at/en/academic-studies-continuing-education/media-digital-technologies/creative-computing?set_language=en) at the [UAS St. Pölten](https://www.fhstp.ac.at/en)
 
 
 You can access my portfolio [here](https://jonasbeer.com/)
